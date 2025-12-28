@@ -1,0 +1,1 @@
+print('Frontend dashboard placeholder')
